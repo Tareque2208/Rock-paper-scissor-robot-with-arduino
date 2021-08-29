@@ -1,1 +1,3 @@
 # Rock-paper-scissor-robot-with-arduino
+
+A repository of rock, paper, scissor playmate robot was build in 2018. I along with my friend Zahirul Islam, Enamul Haque used image processing to detect hand gesture, specifically to detect rock, paper, scissor of the opponent. Eventually, the algorithm take decision and send the opposite gesture to the robot via bluetooth to win. Slowly It started surprising the opponents with fast response. I have attached the arduino code as well. Feel free to fork the repository.
